@@ -1,6 +1,3 @@
-# projectHTML
-product
-[4 попытка — копия .html](https://github.com/user-attachments/files/26929269/4.html)
 <!DOCTYPE html>
 <html lang="ru">
 <head>
